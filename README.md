@@ -21,7 +21,7 @@ Here are a few things I've picked up along my learning journey.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazhar-jan-755a35196/)
 
 
- or give some ♥ on [mail](mazharj4565@gmail.com) .
+ or give some ♥ on [mail](mail:mazharj4565@gmail.com) .
 
 
 
