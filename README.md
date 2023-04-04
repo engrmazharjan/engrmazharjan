@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am M•Adiل « Kamboh » 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Sayyed Mazhar Ullah Jan 👨‍💻
 
 I am a Full Stack JavaScript Developer and Learning enthusiast. I am passionate about technologies and love to learn new things.
 
